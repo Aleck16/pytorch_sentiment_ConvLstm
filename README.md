@@ -22,6 +22,8 @@ Print result graph:
 
     python view_result.py
     
+## References:  
+https://github.com/automan000/Convolution_LSTM_PyTorch
 
 ## Notes  
 none
